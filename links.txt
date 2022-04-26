@@ -1,0 +1,5 @@
+Animaciones para pages trasition
+https://www.npmjs.com/package/framer-motion
+
+
+three.js diseño de modelos 3d
